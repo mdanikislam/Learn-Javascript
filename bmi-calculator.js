@@ -1,4 +1,4 @@
-// BMI Calculator and Healthy Category
+// BMI Calculator and Healthy Category using condition
 /* Create a Javascript program that calculates the Body Mass Index (Bmi)
 -Calculate BMI using the  formula : BMI = weight(kg) / (height (m))^2
 -BMI < 18.5, you are underweight. 
@@ -26,7 +26,6 @@ else{
     
  }
 }
-
 console.log("Your bmi is - ",bmi.toFixed(2));
 
 
