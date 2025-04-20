@@ -1,6 +1,5 @@
 // BMI Calculator and Healthy Category
 /* Create a Javascript program that calculates the Body Mass Index (Bmi)
-
 -Calculate BMI using the  formula : BMI = weight(kg) / (height (m))^2
 -BMI < 18.5, you are underweight. 
 -BMI >= 18.5 and BMI <= 24.9, you are normal.
