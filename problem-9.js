@@ -11,3 +11,5 @@ function findLword(str){
 const sentence = 'Hello my name is Anik-Islam';
 console.log(findLword(sentence));
 
+
+
