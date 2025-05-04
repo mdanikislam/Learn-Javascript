@@ -6,3 +6,4 @@ const actor= {
 
 const {age} = actor;
 console.log(age);
+ 
