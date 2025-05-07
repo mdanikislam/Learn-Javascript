@@ -20,3 +20,7 @@ class Bus extends Vehicle{
         
     }
 }
+const total = new Vehicle('Itihas', '60', '1', '2');
+console.log(total);
+
+
